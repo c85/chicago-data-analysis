@@ -1,7 +1,7 @@
 # Chicago Data Analysis
 
 ## Description:
-This repo includes my submissions for weeks 5 & 6 of the Coursera course titled [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science/)
+This repo includes my submissions for weeks 5 & 6 of the Coursera course titled [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science/).
 
 ## Assignments:
 * Week 5: You have been hired by an organization that strives to improve educational outcomes for children and young people in Chicago. Your job is to analyze the census, crime, and school data for a given neighborhood or district. You will identify causes that impact the enrollment, safety, health, environment ratings of schools.
